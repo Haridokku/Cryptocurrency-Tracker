@@ -1,0 +1,46 @@
+/* Write your CSS code here */
+.crypto-container {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid #00e7ff;
+  align-items: center;
+  background-color: transparent;
+}
+.head {
+  margin-top: 15px;
+  color: #00e7ff;
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.main-img {
+  width: 90%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.title-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: #092e33;
+  width: 80%;
+}
+.heading {
+  color: #ffffff;
+  font-size: 18px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.heading-container {
+  display: flex;
+  justify-content: space-around;
+  width: 200px;
+}
+.list-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+  list-style-type: none;
+}

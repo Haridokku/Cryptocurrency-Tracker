@@ -1,0 +1,36 @@
+/* Write your CSS code here */
+.list-item {
+  margin: 10px;
+  background-color: transparent;
+  width: 300px;
+  width: 80%;
+}
+.item-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  width: 600px;
+  margin-right: 15px;
+  padding-left: 0px;
+  margin-left: 0px;
+}
+.img-container {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+}
+.para {
+  color: #ffffff;
+  font-size: 13px;
+  font-family: 'Roboto';
+  margin: 15px;
+}
+.text-container {
+  display: flex;
+  align-items: center;
+}
